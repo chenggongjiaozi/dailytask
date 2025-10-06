@@ -29,7 +29,7 @@ STEP_RANGES = {
 }
  
 # 默认步数（当不在指定时间段时使用）
-DEFAULT_STEPS = 24465
+DEFAULT_STEPS = 19637
  
 class StepSubmitter:
     def __init__(self):
