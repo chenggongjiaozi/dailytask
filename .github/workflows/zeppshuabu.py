@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
  
 # 多账号配置
 ACCOUNTS = [
-    {"username": "chenggongjiaozi@163.com", "password": "Zepp1234"}，
+    {"username": "chenggongjiaozi@163.com", "password": "Zepp1234"},
     {"username": "litaijun@yeah.net", "password": "Zepp1234"}
 ]
  
