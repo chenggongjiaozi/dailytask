@@ -15,8 +15,8 @@ logger = logging.getLogger(__name__)
  
 # 多账号配置
 ACCOUNTS = [
-    {"username": "chenggongjiaozi@163.com", "password": "Zepp1234"}
-#    {"username": "账号2", "password": "密码2"},
+    {"username": "chenggongjiaozi@163.com", "password": "Zepp1234"}，
+    {"username": "litaijun@yeah.net", "password": "Zepp1234"}
 ]
  
 # 步数范围配置
