@@ -1,4 +1,4 @@
-name: Daily Task at 9,12,16,20,22 Beijing Time
+name: Daily Task at 12,22 Beijing Time
  
 on:
   schedule:
