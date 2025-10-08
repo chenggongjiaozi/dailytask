@@ -1,8 +1,8 @@
-name: Daily Task at 12,22 Beijing Time
+name: Daily Task at 12,19,22 Beijing Time
  
 on:
   schedule:
-    - cron: '0 4,14 * * *'  # UTC 01:00 = 北京时间 09:00
+    - cron: '0 4,11,14 * * *'  # UTC 01:00 = 北京时间 09:00
   workflow_dispatch:  # 添加手动触发选项，方便测试
  
 jobs:
